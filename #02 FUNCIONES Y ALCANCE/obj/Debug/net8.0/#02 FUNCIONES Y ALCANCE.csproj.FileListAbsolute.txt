@@ -1,0 +1,15 @@
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.exe
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.deps.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.runtimeconfig.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.pdb
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.sourcelink.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\refint\#02 FUNCIONES Y ALCANCE.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.pdb
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.genruntimeconfig.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\ref\#02 FUNCIONES Y ALCANCE.dll
