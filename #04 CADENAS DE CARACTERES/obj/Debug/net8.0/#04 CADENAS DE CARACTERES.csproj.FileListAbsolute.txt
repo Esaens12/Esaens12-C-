@@ -1,0 +1,15 @@
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.exe
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.deps.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.runtimeconfig.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.pdb
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.sourcelink.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\refint\#04 CADENAS DE CARACTERES.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.pdb
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.genruntimeconfig.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\ref\#04 CADENAS DE CARACTERES.dll
