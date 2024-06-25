@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _03_ESTRUCTURA_DE_DATOS
-build_property.ProjectDir = C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\
+build_property.ProjectDir = C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

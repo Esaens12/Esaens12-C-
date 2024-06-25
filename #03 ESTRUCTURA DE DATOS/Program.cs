@@ -144,7 +144,7 @@ namespace _03_ESTRUCTURA_DE_DATOS
 
             string filePath = "contactos.json";
             Dictionary<string, long> contactos = CargarContactos(filePath);
-           
+
             bool continuarSwitch = true;
 
             while (continuarSwitch)
@@ -203,7 +203,7 @@ namespace _03_ESTRUCTURA_DE_DATOS
 
                         while (continuar)
                         {
-                            for(int i = 0; i <= 1000; i++) { }
+                            for (int i = 0; i <= 1000; i++) { }
                             Console.Write("ingrese un nombre para el contacto: ");
                             nombre = Console.ReadLine();
 
@@ -232,7 +232,7 @@ namespace _03_ESTRUCTURA_DE_DATOS
                             else
                             {
                                 contactos[nombre] = telefono;
-                  
+
                                 Console.WriteLine("el contacto se guardo con exito !!!\n");
                                 Console.WriteLine(nombre + " - " + telefono + "\n");
 
@@ -261,7 +261,7 @@ namespace _03_ESTRUCTURA_DE_DATOS
                         Console.Write("ingrese el nombre del contacto a cambiar su telefono: \n");
                         string cosa = Console.ReadLine().ToLower();
 
-                        if(contactos.TryGetValue(nombre, out telefono))
+                        if (contactos.TryGetValue(nombre, out telefono))
                         {
                             Console.WriteLine(nombre + " - " + telefono + "\n");
 
@@ -299,13 +299,13 @@ namespace _03_ESTRUCTURA_DE_DATOS
                         Console.Write("ingrese el nombre del contacto a eliminar: ");
                         string busqueda2 = Console.ReadLine().ToUpper();
 
-                        if(contactos.TryGetValue(busqueda2.ToUpper(), out telefono) || contactos.TryGetValue(busqueda2.ToLower(), out telefono))
+                        if (contactos.TryGetValue(busqueda2.ToUpper(), out telefono) || contactos.TryGetValue(busqueda2.ToLower(), out telefono))
                         {
                             Console.WriteLine(busqueda2 + " - " + telefono);
                             Console.Write("estas seguro de que quieres eliminar este contacto? (s/n): ");
                             string eliminar = Console.ReadLine().ToLower();
 
-                            if(eliminar != "s")
+                            if (eliminar != "s")
                             {
                                 Console.WriteLine("eliminacion cancelada");
                             }
@@ -324,14 +324,14 @@ namespace _03_ESTRUCTURA_DE_DATOS
                         operacion = "mostrar contactos registrados\n\n";
                         Console.Write("haz escogido: " + operacion);
 
-                        if(contactos.Count == 0)
+                        if (contactos.Count == 0)
                         {
                             Console.WriteLine("!!! aun no hay contactos registrados !!!\n");
                         }
                         else
                         {
                             continuarSwitch = false;
-                            foreach(object contacto in contactos)
+                            foreach (object contacto in contactos)
                             {
                                 Console.WriteLine(contacto);
                             }
@@ -340,7 +340,7 @@ namespace _03_ESTRUCTURA_DE_DATOS
                             Console.WriteLine(@"presiona ""s"" para volver al menu");
                             string volver2 = Console.ReadLine().ToLower();
 
-                            if(volver2 == "s")
+                            if (volver2 == "s")
                             {
                                 continuarSwitch = true;
                             }

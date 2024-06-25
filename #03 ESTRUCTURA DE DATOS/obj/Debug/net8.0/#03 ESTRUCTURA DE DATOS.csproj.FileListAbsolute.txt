@@ -1,15 +1,14 @@
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.exe
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.deps.json
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.runtimeconfig.json
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.dll
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.pdb
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.AssemblyInfoInputs.cache
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.AssemblyInfo.cs
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.csproj.CoreCompileInputs.cache
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.sourcelink.json
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.dll
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\refint\#03 ESTRUCTURA DE DATOS.dll
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.pdb
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.genruntimeconfig.cache
-C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\ref\#03 ESTRUCTURA DE DATOS.dll
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.exe
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.deps.json
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.runtimeconfig.json
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.dll
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURA DE DATOS.pdb
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.AssemblyInfo.cs
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.dll
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\refint\#03 ESTRUCTURA DE DATOS.dll
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.pdb
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURA DE DATOS.genruntimeconfig.cache
+C:\Users\edwin\source\repos\#03 ESTRUCTURA DE DATOS\obj\Debug\net8.0\ref\#03 ESTRUCTURA DE DATOS.dll
