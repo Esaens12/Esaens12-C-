@@ -1,0 +1,15 @@
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.exe
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.deps.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.runtimeconfig.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.pdb
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.AssemblyInfoInputs.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.AssemblyInfo.cs
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.sourcelink.json
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\refint\#06 RECURSIVIDAD.dll
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.pdb
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.genruntimeconfig.cache
+C:\Users\edwin\OneDrive\Escritorio\RETOS DE PROGRAMACION C#\#06 RECURSIVIDAD\obj\Debug\net8.0\ref\#06 RECURSIVIDAD.dll
